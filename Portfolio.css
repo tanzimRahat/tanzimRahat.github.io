@@ -268,7 +268,7 @@ img {
   flex-wrap: wrap;
 }
 
-@media (max-width: 28.75em) {
+@media (max-width: 40.625em) {
   .contact-links {
     display: flex;
     justify-content: center;
